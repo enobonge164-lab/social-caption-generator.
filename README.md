@@ -21,3 +21,5 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 ## 📄 License
 This project is licensed under the MIT License.
+## 📸 Screenshot
+![AI Caption Generator Interface](Screenshot_20260604-103455.png)
