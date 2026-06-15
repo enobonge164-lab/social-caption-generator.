@@ -1,25 +1,24 @@
-# social-caption-generator.
-“AI Caption Generator for social media posts.”
-# social-caption-generator
-AI Caption Generator for social media posts.
+# Caption Genie
 
-## 🚀 Features
-- Generates creative captions using AI.
-- Supports multiple social platforms (Instagram, TikTok, Facebook).
-- Customizable tone and style.
+AI-powered caption generator for creators and businesses.
 
-## 🛠️ Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/enobonge164-lab/social-caption-generator.git
-   ## 💡 Usage
-Run the app:
-```bash
-npm start
-## 🤝 Contributing
-Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
+## ✨ Features
+- Instagram captions  
+- TikTok captions  
+- Facebook captions  
+- LinkedIn captions  
+- X (Twitter) captions  
+- YouTube captions  
+- Multiple tone options  
+- Personal Story integration  
+- Groq AI powered  
 
-## 📄 License
-This project is licensed under the MIT License.
-## 📸 Screenshot
-![AI Caption Generator Interface](Screenshot_20260604-103455.png)
+## 🛠 Tech Stack
+- Replit  
+- Groq API  
+- Llama 3.3 70B  
+- React  
+
+## 👤 Builder
+**Sirwhite Polymath**  
+Building AI tools in public.
