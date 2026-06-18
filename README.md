@@ -22,3 +22,13 @@ AI-powered caption generator for creators and businesses.
 ## 👤 Builder
 **Sirwhite Polymath**  
 Building AI tools in public.
+## 🛣 Roadmap
+
+- [x] Caption generation
+- [x] Multi-platform support
+- [x] Personal stories
+- [ ] User ratings
+- [ ] Testimonials
+- [ ] Public deployment
+- [ ] Mobile optimization
+- [ ] Dark mode
