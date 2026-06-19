@@ -32,3 +32,10 @@ Building AI tools in public.
 - [ ] Public deployment
 - [ ] Mobile optimization
 - [ ] Dark mode
+## 🌐 Live Demo
+
+Coming Soon
+
+(Currently unavailable because Replit free credits have been exhausted.)
+
+Stay tuned for the public deployment.
