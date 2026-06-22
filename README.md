@@ -22,6 +22,24 @@ AI-powered caption generator for creators and businesses.
 ## 👤 Builder
 **Sirwhite Polymath**  
 Building AI tools in public.
+## 📊 Development Status
+
+Current Version
+
+Caption Genie v1.0.0
+
+
+Next Milestone
+
+Caption Genie v1.1.0
+
+
+Status
+
+🟢 Active Development
+
+
+Built publicly by Sirwhite Polymath
 ## 🛣 Roadmap
 
 - [x] Caption generation
